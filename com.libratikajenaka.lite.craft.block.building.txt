@@ -1,1 +1,0 @@
-[{"id":"1afcc3aad","id1":"ca-app-pub-3940256099942544/3419835294","id2":"2","id3":"3","init":1,"note":"default","pack":"","pe1":1200,"pe2":600,"status":true}]
