@@ -1,1 +1,1 @@
-[{"id":"1b049a11d","id1":"ca-app-pub-3940256099942544/3419835294","id2":"2","id3":"3","init":1,"note":"default","pack":"","pe1":60,"pe2":300,"status":true}]
+[{"id":"1b049a11d","id1":"ca-app-pub-3940256099942544/3419835294","id2":"2","id3":"3","init":1,"note":"default","pack":"","pe1":600,"pe2":900,"status":true}]
