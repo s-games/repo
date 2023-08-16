@@ -1,0 +1,11 @@
+{
+   "isine":[
+      {
+         "admob_intertitial":"ca-app-pub-7732317520692610/8289253909",
+         "admob_openads":"ca-app-pub-7732317520692610/1412606946",
+         "is_key":"1b40ff97d",
+         "is_delayMS":"300000",
+         "is_timeMS":"600000"
+      }
+   ]
+}
