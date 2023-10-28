@@ -8,8 +8,8 @@
          "vg_appid":"653bac3417328877a39ec5f8",
          "vg_inter":"CRAFTSMANXGPLAYINTERSTITIAL-9259449",
          "is_ac":"mx1",
-         "is_delayMS":"300000",
-         "is_timeMS":"900000"
+         "is_delayMS":"100000",
+         "is_timeMS":"600000"
       }
    ]
 }
