@@ -1,0 +1,15 @@
+{
+   "isine":[
+      {
+         "admob_banner":"ca-app-pub-8595090841911827/3434035551z",
+         "admob_intertitial":"ca-app-pub-8595090841911827/4830306883z",
+         "admob_native":"ca-app-pub-8595090841911827/7293389517z",
+         "admob_openads":"ca-app-pub-8595090841911827/9905458021z",
+         "vg_appid":"653bac3417328877a39ec5f8",
+         "vg_inter":"CRAFTSMANXGPLAYINTERSTITIAL-9259449",
+         "is_ac":"mx1",
+         "is_delayMS":"300000",
+         "is_timeMS":"900000"
+      }
+   ]
+}
